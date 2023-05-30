@@ -71,6 +71,7 @@ function Electricity() {
         else if (amount == "advance"){
             //if it is check if money owed is less than 0
             if(moneyOwed < 0){
+                // commeent
                 //if it is do not allow advance
                 unitsAvailable += 0
                 moneyOwed -= 0
