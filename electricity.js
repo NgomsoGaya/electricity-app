@@ -93,7 +93,7 @@ function Electricity() {
     }
 
     function getUnitsAvailable() {
-        //make units available a global variable
+        //make units available a global variable sss
         globalVariable2 = unitsAvailable
          return unitsAvailable;
     }
